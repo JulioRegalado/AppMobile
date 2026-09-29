@@ -109,8 +109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1372, y: 48}
-  m_SizeDelta: {x: 10129.98, y: 1580.82}
+  m_AnchoredPosition: {x: 425, y: 38}
+  m_SizeDelta: {x: 5981.93, y: 1580.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7003755959455510352
 CanvasRenderer:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Volumen music
+  m_text: 'Music
 
 '
   m_isRightToLeft: 0
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -739,8 +739,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.597}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15456.062, y: -7440.5537}
-  m_SizeDelta: {x: 8883.52, y: 2611}
+  m_AnchoredPosition: {x: -14379.96, y: -7451.761}
+  m_SizeDelta: {x: 6731.19, y: 2611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3803155756308030067
 CanvasRenderer:
@@ -2368,7 +2368,7 @@ RectTransform:
   m_GameObject: {fileID: 7538163411699690035}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalScale: {x: 0.058672454, y: 0.0518483, z: 0.0487984}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8361675756958993286}
@@ -2380,7 +2380,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 962, y: 564.5}
+  m_AnchoredPosition: {x: 962, y: 531.4}
   m_SizeDelta: {x: 41507.36, y: 21674.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2932282640540016081
@@ -2561,9 +2561,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Volumen
-
-'
+  m_text: VFX
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
