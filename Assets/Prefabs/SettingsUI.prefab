@@ -1065,7 +1065,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5331493215903842486}
-  - component: {fileID: 8169206641257772627}
+  - component: {fileID: 6929022312234309516}
   m_Layer: 0
   m_Name: SettingsUI
   m_TagString: Untagged
@@ -1089,7 +1089,7 @@ Transform:
   - {fileID: 291941578393423213}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8169206641257772627
+--- !u!114 &6929022312234309516
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1098,17 +1098,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 2920651023256647519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b4c2d1cb03a3f94b9dcc3028fe9142d, type: 3}
+  m_Script: {fileID: 11500000, guid: b33f380a657accd4ea7a9e1a5380b293, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PopupUI
-  _id: 
-  _canvasRectTransform: {fileID: 291941578393423213}
+  m_EditorClassIdentifier: Assembly-CSharp::SettingsUI
+  _id: settingsui
+  _canvasRectTransform: {fileID: 3474344853128811978}
   _canvasGroup: {fileID: 0}
-  _hideOnStart: 1
+  _hideOnStart: 0
   showDuration: 0.5
   hideDuration: 0.5
-  showEase: 1
-  hideEase: 1
+  showEase: 27
+  hideEase: 26
+  _volumeMusicSlider: {fileID: 4835250190809207191}
+  _volumeSFXSlider: {fileID: 1851584239965117908}
 --- !u!1 &3289674689017518624
 GameObject:
   m_ObjectHideFlags: 0
@@ -1841,6 +1843,7 @@ GameObject:
   - component: {fileID: 7404651195143910526}
   - component: {fileID: 2423988900040636851}
   - component: {fileID: 4360005445589188784}
+  - component: {fileID: 2865148446590376928}
   m_Layer: 0
   m_Name: SettingsCanvas
   m_TagString: Untagged
@@ -1932,6 +1935,28 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &2865148446590376928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5734855799294212739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33f380a657accd4ea7a9e1a5380b293, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SettingsUI
+  _id: 
+  _canvasRectTransform: {fileID: 0}
+  _canvasGroup: {fileID: 0}
+  _hideOnStart: 0
+  showDuration: 0.5
+  hideDuration: 0.5
+  showEase: 27
+  hideEase: 26
+  _volumeMusicSlider: {fileID: 1851584239965117908}
+  _volumeSFXSlider: {fileID: 0}
 --- !u!1 &6116060221866308659
 GameObject:
   m_ObjectHideFlags: 0
