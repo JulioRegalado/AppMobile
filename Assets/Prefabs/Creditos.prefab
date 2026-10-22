@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3474344853128811978}
+  - component: {fileID: 7778802355338944892}
   m_Layer: 0
   m_Name: CanvasGroup
   m_TagString: Untagged
@@ -36,6 +37,18 @@ RectTransform:
   m_AnchoredPosition: {x: -96001.4, y: -54006.3}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &7778802355338944892
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 534601354682436774}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &1175238958234787638
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,10 +340,10 @@ RectTransform:
   - {fileID: 8410366431034977352}
   m_Father: {fileID: 4626157391700819285}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.216}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -31, y: -1568}
-  m_SizeDelta: {x: 42370.13, y: 3749.31}
+  m_AnchorMin: {x: -0.011139826, y: 0.34116814}
+  m_AnchorMax: {x: 1.009646, y: 0.514148}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5603511250399252946
 CanvasRenderer:
@@ -454,7 +467,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5331493215903842486}
-  - component: {fileID: 8169206641257772627}
+  - component: {fileID: 6020122000187585758}
   m_Layer: 0
   m_Name: Creditos
   m_TagString: Untagged
@@ -471,14 +484,14 @@ Transform:
   m_GameObject: {fileID: 2920651023256647519}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 328.88663, y: 242.90063, z: 0}
+  m_LocalPosition: {x: -95.282776, y: -233.21121, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 291941578393423213}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8169206641257772627
+--- !u!114 &6020122000187585758
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -487,17 +500,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 2920651023256647519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b4c2d1cb03a3f94b9dcc3028fe9142d, type: 3}
+  m_Script: {fileID: 11500000, guid: 1a981512e157ec44ba0232d729f28644, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PopupUI
+  m_EditorClassIdentifier: Assembly-CSharp::CreditsUI
   _id: 
   _canvasRectTransform: {fileID: 291941578393423213}
-  _canvasGroup: {fileID: 0}
-  _hideOnStart: 1
+  _canvasGroup: {fileID: 7778802355338944892}
+  _hideOnStart: 0
   showDuration: 0.5
   hideDuration: 0.5
-  showEase: 1
-  hideEase: 1
+  showEase: 27
+  hideEase: 26
 --- !u!1 &3611034080893245452
 GameObject:
   m_ObjectHideFlags: 0
@@ -703,10 +716,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 7858607762210020064}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: 867}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0.026325213, y: 0.032198384}
+  m_AnchorMax: {x: 1, y: 0.9678017}
+  m_AnchoredPosition: {x: -327, y: -1}
+  m_SizeDelta: {x: -41032, y: -3378}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1505935122319305315
 CanvasRenderer:

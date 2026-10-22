@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3474344853128811978}
+  - component: {fileID: 780745432823184024}
   m_Layer: 0
   m_Name: CanvasGroup
   m_TagString: Untagged
@@ -36,6 +37,18 @@ RectTransform:
   m_AnchoredPosition: {x: -96001.4, y: -54006.3}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &780745432823184024
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 534601354682436774}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &710757820977346162
 GameObject:
   m_ObjectHideFlags: 0
@@ -195,7 +208,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5331493215903842486}
-  - component: {fileID: 8169206641257772627}
+  - component: {fileID: 1551389157311138039}
   m_Layer: 0
   m_Name: Menu
   m_TagString: Untagged
@@ -211,15 +224,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2920651023256647519}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1216.447, y: 501.17743, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -65.59833, y: -273.06436, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 291941578393423213}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8169206641257772627
+--- !u!114 &1551389157311138039
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -228,17 +241,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 2920651023256647519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b4c2d1cb03a3f94b9dcc3028fe9142d, type: 3}
+  m_Script: {fileID: 11500000, guid: 2f2b0eed233c9a842b2213b8188aecca, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PopupUI
+  m_EditorClassIdentifier: Assembly-CSharp::MenuUI
   _id: 
   _canvasRectTransform: {fileID: 291941578393423213}
-  _canvasGroup: {fileID: 0}
-  _hideOnStart: 1
+  _canvasGroup: {fileID: 780745432823184024}
+  _hideOnStart: 0
   showDuration: 0.5
   hideDuration: 0.5
-  showEase: 1
-  hideEase: 1
+  showEase: 27
+  hideEase: 26
 --- !u!1 &3330481662365223189
 GameObject:
   m_ObjectHideFlags: 0
