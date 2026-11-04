@@ -1,13 +1,11 @@
 using DG.Tweening;
-using NaughtyAttributes;
-using System;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class UIWindow : MonoBehaviour
 {
     [Header("Data")]
     [SerializeField] private string _id;
+
     [Header("UI Settings")]
     [SerializeField] private RectTransform _canvasRectTransform;
     [SerializeField] private CanvasGroup _canvasGroup;
@@ -24,6 +22,8 @@ public class UIWindow : MonoBehaviour
     public RectTransform CanvasRectTransform => _canvasRectTransform;
     public string Id => _id;
 
+    private Tween _currentTween;
+
     void Start()
     {
         Initialize();
@@ -36,33 +36,59 @@ public class UIWindow : MonoBehaviour
             Hide(true);
         }
     }
+
     public virtual void Show(bool instant = false)
     {
+        _currentTween?.Kill();
+        _canvasRectTransform.gameObject.SetActive(true);
+
         if (instant)
         {
-            _canvasRectTransform.gameObject.SetActive(true);
+            _canvasRectTransform.localScale = Vector3.one;
+            if (_canvasGroup != null) _canvasGroup.alpha = 1f;
         }
         else
         {
-            _canvasRectTransform.gameObject.SetActive(true);
-            RectTransform rectTransform = _canvasGroup.GetComponent<RectTransform>();
-            rectTransform.DOScale(Vector3.one, showDuration).SetEase(showEase);
+          
+            _canvasRectTransform.localScale = Vector3.zero;
+            if (_canvasGroup != null) _canvasGroup.alpha = 0f;
+
+         
+            Sequence seq = DOTween.Sequence();
+            seq.Join(_canvasRectTransform.DOScale(Vector3.one, showDuration).SetEase(showEase));
+            if (_canvasGroup != null)
+            {
+                seq.Join(_canvasGroup.DOFade(1f, showDuration));
+            }
+            _currentTween = seq;
         }
     }
 
     public virtual void Hide(bool instant = false)
     {
+        _currentTween?.Kill();
+
         if (instant)
         {
+            _canvasRectTransform.localScale = Vector3.zero;
+            if (_canvasGroup != null) _canvasGroup.alpha = 0f;
             _canvasRectTransform.gameObject.SetActive(false);
         }
         else
         {
-            RectTransform rectTransform = _canvasGroup.GetComponent<RectTransform>();
-            rectTransform.DOScale(Vector3.zero, hideDuration).SetEase(hideEase).OnComplete(() =>
+            Sequence seq = DOTween.Sequence();
+            seq.Join(_canvasRectTransform.DOScale(Vector3.zero, hideDuration).SetEase(hideEase));
+            if (_canvasGroup != null)
+            {
+                seq.Join(_canvasGroup.DOFade(0f, hideDuration));
+            }
+
+            seq.OnComplete(() =>
             {
                 _canvasRectTransform.gameObject.SetActive(false);
             });
+
+            _currentTween = seq;
         }
     }
 }
