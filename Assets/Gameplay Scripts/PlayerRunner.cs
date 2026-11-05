@@ -1,12 +1,15 @@
 
+
 using UnityEngine;
-using System.Collections;
 
 public class PlayerRunner : MonoBehaviour
 {
     [Header("Movimiento")]
     public Rigidbody2D rb;
     public float jumpForce = 12f;
+
+    [Header("Caida Rapida")]
+    public float fastFallSpeed = 18f;
 
     [Header("Ground Check")]
     public Transform groundCheck;
@@ -35,7 +38,6 @@ public class PlayerRunner : MonoBehaviour
             0.2f,
             groundLayer
         );
-        { }
     }
 
     // BOTON JUMP
@@ -50,40 +52,16 @@ public class PlayerRunner : MonoBehaviour
         }
     }
 
-    // BOTON DOWN
+    // BOTON DOWN: CAIDA RAPIDA
     public void DropDown()
     {
-        if (isOnPlatform && !isDead)
+        if (!isGrounded && !isDead && rb != null)
         {
-            StartCoroutine(DisablePlatformCollision());
+            rb.linearVelocity = new Vector2(
+                rb.linearVelocity.x,
+                -fastFallSpeed
+            );
         }
-    }
-
-    private IEnumerator DisablePlatformCollision()
-    {
-        int platform = LayerMask.NameToLayer("Platform");
-
-        if (platform == -1)
-        {
-            Debug.LogError("No existe la Layer Platform");
-            yield break;
-        }
-
-        // Desactivar temporalmente la colision
-        Physics2D.IgnoreLayerCollision(
-            gameObject.layer,
-            platform,
-            true
-        );
-
-        yield return new WaitForSeconds(0.4f);
-
-        // Volver a activar la colision
-        Physics2D.IgnoreLayerCollision(
-            gameObject.layer,
-            platform,
-            false
-        );
     }
 
     // COLISION CON ENEMIGOS
@@ -121,6 +99,4 @@ public class PlayerRunner : MonoBehaviour
             Debug.LogError("No se encontro GameManager");
         }
     }
-
-
 }
