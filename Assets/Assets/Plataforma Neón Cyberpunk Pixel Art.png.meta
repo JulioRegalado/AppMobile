@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 3ca7394f08e90f941bebe4f0a26204eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3465500067598063984
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_0"
+  - first:
+      213: 6340231736178322425
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_1"
+  - first:
+      213: 2720617434309610711
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_2"
+  - first:
+      213: 3034245266361308142
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_3"
+  - first:
+      213: -4624121938298331194
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_4"
+  - first:
+      213: 4033726109036888256
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_5"
+  - first:
+      213: 7886680727526316341
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_6"
+  - first:
+      213: 2565105378593179737
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_7"
+  - first:
+      213: -3699790428705418089
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_8"
+  - first:
+      213: -1417630853526624622
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_9"
+  - first:
+      213: 6708308675708351144
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_10"
+  - first:
+      213: -5574014298497098549
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_11"
+  - first:
+      213: 858313185551251566
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_12"
+  - first:
+      213: -4080725381200363492
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_13"
+  - first:
+      213: -1961356730910848414
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_14"
+  - first:
+      213: -3128708277754084745
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_15"
+  - first:
+      213: 4098230135708007111
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_16"
+  - first:
+      213: 1669072519407124855
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_17"
+  - first:
+      213: -8363646048828793399
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_18"
+  - first:
+      213: -5461745207606620441
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_19"
+  - first:
+      213: -1968529961200231873
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_20"
+  - first:
+      213: 3673252994877613314
+    second: "Plataforma Ne\xF3n Cyberpunk Pixel Art_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_0"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 61
+        width: 2113
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a9bdac0218efc0800000000000000
+      internalID: -3465500067598063984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_1"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 650
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb219c0c270df750800000000000000
+      internalID: 6340231736178322425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_2"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 627
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc42cd542391c520800000000000000
+      internalID: 2720617434309610711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_3"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 632
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee350ee5efdcb1a20800000000000000
+      internalID: 3034245266361308142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_4"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 628
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf13a5c891d3dfb0800000000000000
+      internalID: -4624121938298331194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_5"
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 618
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0cc5a468caaf730800000000000000
+      internalID: 4033726109036888256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_6"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 612
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391025165e137d60800000000000000
+      internalID: 7886680727526316341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_7"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 208
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588d7650c5199320800000000000000
+      internalID: 2565105378593179737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_8"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 208
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7949f991534b7acc0800000000000000
+      internalID: -3699790428705418089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_9"
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 179
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29669e8ef30935ce0800000000000000
+      internalID: -1417630853526624622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_10"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 176
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2744bc233b81d50800000000000000
+      internalID: 6708308675708351144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_11"
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd125278f15a2b0800000000000000
+      internalID: -5574014298497098549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_12"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f0d27b4759eb00800000000000000
+      internalID: 858313185551251566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_13"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 150
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c1abe2e95e57c0800000000000000
+      internalID: -4080725381200363492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_14"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26acc38e17cd7c4e0800000000000000
+      internalID: -1961356730910848414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_15"
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772c4a2e5689494d0800000000000000
+      internalID: -3128708277754084745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_16"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 144
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca3da65896dfd830800000000000000
+      internalID: 4098230135708007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_17"
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 130
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c0affc9cb92710800000000000000
+      internalID: 1669072519407124855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_18"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 128
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd5782b3c5eeb80800000000000000
+      internalID: -8363646048828793399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_19"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 114
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee4ae6dbabf334b0800000000000000
+      internalID: -5461745207606620441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_20"
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 130
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a52f41e606ea4e0800000000000000
+      internalID: -1968529961200231873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma Ne\xF3n Cyberpunk Pixel Art_21"
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e1d913240af230800000000000000
+      internalID: 3673252994877613314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_0": -3465500067598063984
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_1": 6340231736178322425
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_10": 6708308675708351144
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_11": -5574014298497098549
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_12": 858313185551251566
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_13": -4080725381200363492
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_14": -1961356730910848414
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_15": -3128708277754084745
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_16": 4098230135708007111
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_17": 1669072519407124855
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_18": -8363646048828793399
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_19": -5461745207606620441
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_2": 2720617434309610711
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_20": -1968529961200231873
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_21": 3673252994877613314
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_3": 3034245266361308142
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_4": -4624121938298331194
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_5": 4033726109036888256
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_6": 7886680727526316341
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_7": 2565105378593179737
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_8": -3699790428705418089
+      "Plataforma Ne\xF3n Cyberpunk Pixel Art_9": -1417630853526624622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

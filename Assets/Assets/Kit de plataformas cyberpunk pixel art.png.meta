@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 59fa6d40ee5f0bc44ba3d5073e2d5e73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3208144944812390274
+    second: Kit de plataformas cyberpunk pixel art_0
+  - first:
+      213: -4555223354455930581
+    second: Kit de plataformas cyberpunk pixel art_1
+  - first:
+      213: -5169786854549353978
+    second: Kit de plataformas cyberpunk pixel art_2
+  - first:
+      213: -4279804856564647914
+    second: Kit de plataformas cyberpunk pixel art_3
+  - first:
+      213: 2826075480989325629
+    second: Kit de plataformas cyberpunk pixel art_4
+  - first:
+      213: -2272964564510007901
+    second: Kit de plataformas cyberpunk pixel art_5
+  - first:
+      213: -5625310264038688588
+    second: Kit de plataformas cyberpunk pixel art_6
+  - first:
+      213: 5551927487943756622
+    second: Kit de plataformas cyberpunk pixel art_7
+  - first:
+      213: -1807950450665273890
+    second: Kit de plataformas cyberpunk pixel art_8
+  - first:
+      213: 933222473474194482
+    second: Kit de plataformas cyberpunk pixel art_9
+  - first:
+      213: -2201796214267263643
+    second: Kit de plataformas cyberpunk pixel art_10
+  - first:
+      213: 4005976410540252462
+    second: Kit de plataformas cyberpunk pixel art_11
+  - first:
+      213: 3736629881120995256
+    second: Kit de plataformas cyberpunk pixel art_12
+  - first:
+      213: 2415944985916479612
+    second: Kit de plataformas cyberpunk pixel art_13
+  - first:
+      213: -5952773909880807097
+    second: Kit de plataformas cyberpunk pixel art_14
+  - first:
+      213: -7395798474358869248
+    second: Kit de plataformas cyberpunk pixel art_15
+  - first:
+      213: 1906804765927745446
+    second: Kit de plataformas cyberpunk pixel art_16
+  - first:
+      213: -3696393610001904529
+    second: Kit de plataformas cyberpunk pixel art_17
+  - first:
+      213: 2962480347741651034
+    second: Kit de plataformas cyberpunk pixel art_18
+  - first:
+      213: -6769212465262720309
+    second: Kit de plataformas cyberpunk pixel art_19
+  - first:
+      213: -5542465192956955106
+    second: Kit de plataformas cyberpunk pixel art_20
+  - first:
+      213: -374006799080846184
+    second: Kit de plataformas cyberpunk pixel art_21
+  - first:
+      213: 4926818048739994465
+    second: Kit de plataformas cyberpunk pixel art_22
+  - first:
+      213: -4754707907409168302
+    second: Kit de plataformas cyberpunk pixel art_23
+  - first:
+      213: -5258294982748855253
+    second: Kit de plataformas cyberpunk pixel art_24
+  - first:
+      213: -2080777609010915770
+    second: Kit de plataformas cyberpunk pixel art_25
+  - first:
+      213: -4089210451829395152
+    second: Kit de plataformas cyberpunk pixel art_26
+  - first:
+      213: 9032337983826783657
+    second: Kit de plataformas cyberpunk pixel art_27
+  - first:
+      213: -2154661640294345360
+    second: Kit de plataformas cyberpunk pixel art_28
+  - first:
+      213: 8006542010197093682
+    second: Kit de plataformas cyberpunk pixel art_29
+  - first:
+      213: -3840703155629267277
+    second: Kit de plataformas cyberpunk pixel art_30
+  - first:
+      213: -5705524051310940519
+    second: Kit de plataformas cyberpunk pixel art_31
+  - first:
+      213: 9167309289598668086
+    second: Kit de plataformas cyberpunk pixel art_32
+  - first:
+      213: 8649198938809381280
+    second: Kit de plataformas cyberpunk pixel art_33
+  - first:
+      213: 196496573277763638
+    second: Kit de plataformas cyberpunk pixel art_34
+  - first:
+      213: -6523237398784917308
+    second: Kit de plataformas cyberpunk pixel art_35
+  - first:
+      213: -5260137812520223375
+    second: Kit de plataformas cyberpunk pixel art_36
+  - first:
+      213: -5217308425405226353
+    second: Kit de plataformas cyberpunk pixel art_37
+  - first:
+      213: -1298203202211885158
+    second: Kit de plataformas cyberpunk pixel art_38
+  - first:
+      213: 8979253758778727288
+    second: Kit de plataformas cyberpunk pixel art_39
+  - first:
+      213: 5430489026400717686
+    second: Kit de plataformas cyberpunk pixel art_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 132
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f18f64de958c20800000000000000
+      internalID: 3208144944812390274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 891
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2947156e7898c0c0800000000000000
+      internalID: -4555223354455930581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 897
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0a1a1f3a3148b0800000000000000
+      internalID: -5169786854549353978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 914
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f87888241b94c0800000000000000
+      internalID: -4279804856564647914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 829
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d395fc04dac383720800000000000000
+      internalID: 2826075480989325629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 839
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad945175cec470e0800000000000000
+      internalID: -2272964564510007901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 843
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87d987e12eee1b0800000000000000
+      internalID: -5625310264038688588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 839
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4d9982a86c0d40800000000000000
+      internalID: 5551927487943756622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 887
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c690e4aed8e6e0800000000000000
+      internalID: -1807950450665273890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 859
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c37db25e873fc00800000000000000
+      internalID: 933222473474194482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 893
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cccc3206a171e0800000000000000
+      internalID: -2201796214267263643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 905
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d98d02256189730800000000000000
+      internalID: 4005976410540252462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 861
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b351541d2bd330800000000000000
+      internalID: 3736629881120995256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 816
+        width: 184
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78107a1a29278120800000000000000
+      internalID: 2415944985916479612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 895
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74167590baf736da0800000000000000
+      internalID: -5952773909880807097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 865
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003b671e878dc5990800000000000000
+      internalID: -7395798474358869248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_16
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 834
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72529f4d4567a10800000000000000
+      internalID: 1906804765927745446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_17
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 806
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c00d59895c3bcc0800000000000000
+      internalID: -3696393610001904529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_18
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 804
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50873d2e28dc1920800000000000000
+      internalID: 2962480347741651034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_19
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 857
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8edea02dee02a0800000000000000
+      internalID: -6769212465262720309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_20
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 858
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1675d1b5453513b0800000000000000
+      internalID: -5542465192956955106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_21
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 843
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c843d3cc24fcaf0800000000000000
+      internalID: -374006799080846184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 803
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b612479e29f5440800000000000000
+      internalID: 4926818048739994465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 814
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b2288952e30eb0800000000000000
+      internalID: -4754707907409168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 804
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b242905a298c607b0800000000000000
+      internalID: -5258294982748855253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_25
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 834
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646515ef9c79f13e0800000000000000
+      internalID: -2080777609010915770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_26
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 844
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f4e672c43047c0800000000000000
+      internalID: -4089210451829395152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_27
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 845
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad63497a8f495d70800000000000000
+      internalID: 9032337983826783657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 828
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075581f67aa1912e0800000000000000
+      internalID: -2154661640294345360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 832
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d2a0da983fc1f60800000000000000
+      internalID: 8006542010197093682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 1658
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6eef034d413bac0800000000000000
+      internalID: -3840703155629267277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 425
+        width: 1385
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee920ca18e1d0b0800000000000000
+      internalID: -5705524051310940519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 277
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dcaa87a33d83f70800000000000000
+      internalID: 9167309289598668086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 166
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13b630c90280870800000000000000
+      internalID: 8649198938809381280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 307
+        width: 187
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6387dc1a7981ab200800000000000000
+      internalID: 196496573277763638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 305
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c1ebb52ec875a0800000000000000
+      internalID: -6523237398784917308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_36
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 321
+        width: 142
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17db127678c3007b0800000000000000
+      internalID: -5260137812520223375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_37
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 309
+        width: 245
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a11c21a56897b0800000000000000
+      internalID: -5217308425405226353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_38
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 305
+        width: 355
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fc2e5d01bdbfde0800000000000000
+      internalID: -1298203202211885158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_39
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 301
+        width: 262
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bd81038b7bc9c70800000000000000
+      internalID: 8979253758778727288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit de plataformas cyberpunk pixel art_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b854f5ff8fc5b40800000000000000
+      internalID: 5430489026400717686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kit de plataformas cyberpunk pixel art_0: 3208144944812390274
+      Kit de plataformas cyberpunk pixel art_1: -4555223354455930581
+      Kit de plataformas cyberpunk pixel art_10: -2201796214267263643
+      Kit de plataformas cyberpunk pixel art_11: 4005976410540252462
+      Kit de plataformas cyberpunk pixel art_12: 3736629881120995256
+      Kit de plataformas cyberpunk pixel art_13: 2415944985916479612
+      Kit de plataformas cyberpunk pixel art_14: -5952773909880807097
+      Kit de plataformas cyberpunk pixel art_15: -7395798474358869248
+      Kit de plataformas cyberpunk pixel art_16: 1906804765927745446
+      Kit de plataformas cyberpunk pixel art_17: -3696393610001904529
+      Kit de plataformas cyberpunk pixel art_18: 2962480347741651034
+      Kit de plataformas cyberpunk pixel art_19: -6769212465262720309
+      Kit de plataformas cyberpunk pixel art_2: -5169786854549353978
+      Kit de plataformas cyberpunk pixel art_20: -5542465192956955106
+      Kit de plataformas cyberpunk pixel art_21: -374006799080846184
+      Kit de plataformas cyberpunk pixel art_22: 4926818048739994465
+      Kit de plataformas cyberpunk pixel art_23: -4754707907409168302
+      Kit de plataformas cyberpunk pixel art_24: -5258294982748855253
+      Kit de plataformas cyberpunk pixel art_25: -2080777609010915770
+      Kit de plataformas cyberpunk pixel art_26: -4089210451829395152
+      Kit de plataformas cyberpunk pixel art_27: 9032337983826783657
+      Kit de plataformas cyberpunk pixel art_28: -2154661640294345360
+      Kit de plataformas cyberpunk pixel art_29: 8006542010197093682
+      Kit de plataformas cyberpunk pixel art_3: -4279804856564647914
+      Kit de plataformas cyberpunk pixel art_30: -3840703155629267277
+      Kit de plataformas cyberpunk pixel art_31: -5705524051310940519
+      Kit de plataformas cyberpunk pixel art_32: 9167309289598668086
+      Kit de plataformas cyberpunk pixel art_33: 8649198938809381280
+      Kit de plataformas cyberpunk pixel art_34: 196496573277763638
+      Kit de plataformas cyberpunk pixel art_35: -6523237398784917308
+      Kit de plataformas cyberpunk pixel art_36: -5260137812520223375
+      Kit de plataformas cyberpunk pixel art_37: -5217308425405226353
+      Kit de plataformas cyberpunk pixel art_38: -1298203202211885158
+      Kit de plataformas cyberpunk pixel art_39: 8979253758778727288
+      Kit de plataformas cyberpunk pixel art_4: 2826075480989325629
+      Kit de plataformas cyberpunk pixel art_40: 5430489026400717686
+      Kit de plataformas cyberpunk pixel art_5: -2272964564510007901
+      Kit de plataformas cyberpunk pixel art_6: -5625310264038688588
+      Kit de plataformas cyberpunk pixel art_7: 5551927487943756622
+      Kit de plataformas cyberpunk pixel art_8: -1807950450665273890
+      Kit de plataformas cyberpunk pixel art_9: 933222473474194482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

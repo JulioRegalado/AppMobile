@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 72335a0012357354388464f4bbd82df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4595362665286848518
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_0"
+  - first:
+      213: -3731774198187293187
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_1"
+  - first:
+      213: 6812577393829415643
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_2"
+  - first:
+      213: 5654008305349781476
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_3"
+  - first:
+      213: -2610429898404754368
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_4"
+  - first:
+      213: 2243182400041586481
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_5"
+  - first:
+      213: -5060987554820916523
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_6"
+  - first:
+      213: 2295111477363379212
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_7"
+  - first:
+      213: 7834980966060860521
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_8"
+  - first:
+      213: 5928502537864661332
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_9"
+  - first:
+      213: -5965541921045067726
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_10"
+  - first:
+      213: -4987165287256953879
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_11"
+  - first:
+      213: -3078971294606459366
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_12"
+  - first:
+      213: 8706782212822819233
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_13"
+  - first:
+      213: -4645265169045277512
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_14"
+  - first:
+      213: 4433595331921947008
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_15"
+  - first:
+      213: 1177308714495445690
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_16"
+  - first:
+      213: 4215912240704722266
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_17"
+  - first:
+      213: -3641215839746820525
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_18"
+  - first:
+      213: -8082691923554820126
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_19"
+  - first:
+      213: 5214863358481304853
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_20"
+  - first:
+      213: 5460040733667271702
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_21"
+  - first:
+      213: 8958829308990305122
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_22"
+  - first:
+      213: -4470582951974998236
+    second: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_23"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 788
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2c71d00ef930c0800000000000000
+      internalID: -4595362665286848518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_1"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 751
+        width: 447
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df504177323163cc0800000000000000
+      internalID: -3731774198187293187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_2"
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 754
+        width: 380
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0f0c8b032b8e50800000000000000
+      internalID: 6812577393829415643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_3"
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 790
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e76b75f892177e40800000000000000
+      internalID: 5654008305349781476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_4"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 796
+        width: 146
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c868a86d3e5cbd0800000000000000
+      internalID: -2610429898404754368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_5"
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 808
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f03e80282612f10800000000000000
+      internalID: 2243182400041586481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_6"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 784
+        width: 167
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf93612a2c3c9b0800000000000000
+      internalID: -5060987554820916523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_7"
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 820
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8a288abfd9df10800000000000000
+      internalID: 2295111477363379212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_8"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 824
+        width: 17
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96421085da17bbc60800000000000000
+      internalID: 7834980966060860521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_9"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 801
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459cc6bc5a5464250800000000000000
+      internalID: 5928502537864661332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384867ca33263da0800000000000000
+      internalID: -5965541921045067726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_11"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 615
+        width: 272
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe3e828970acab0800000000000000
+      internalID: -4987165287256953879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_12"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 770
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7b5fabeb4545d0800000000000000
+      internalID: -3078971294606459366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_13"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16ef3ca44b4d870800000000000000
+      internalID: 8706782212822819233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_14"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 624
+        width: 168
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4bf8fb0f3b88fb0800000000000000
+      internalID: -4645265169045277512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_15"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 630
+        width: 231
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a905d67b478d30800000000000000
+      internalID: 4433595331921947008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_16"
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 428
+        width: 139
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba0976c904a65010800000000000000
+      internalID: 1177308714495445690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_17"
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 429
+        width: 137
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551d6798dde18a30800000000000000
+      internalID: 4215912240704722266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_18"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 658
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567d595c7dc77dc0800000000000000
+      internalID: -3641215839746820525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_19"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 612
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef989bf48284df80800000000000000
+      internalID: -8082691923554820126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_20"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 597
+        width: 512
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d8a72589aee5840800000000000000
+      internalID: 5214863358481304853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1662
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a6656e16f5cb40800000000000000
+      internalID: 5460040733667271702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_22"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 439
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b9b56ac7245c70800000000000000
+      internalID: 8958829308990305122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Cyberpunk de Runner Ne\xF3n_23"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 11
+        width: 525
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fec98cd7c45f1c0800000000000000
+      internalID: -4470582951974998236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_0": -4595362665286848518
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_1": -3731774198187293187
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_10": -5965541921045067726
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_11": -4987165287256953879
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_12": -3078971294606459366
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_13": 8706782212822819233
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_14": -4645265169045277512
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_15": 4433595331921947008
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_16": 1177308714495445690
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_17": 4215912240704722266
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_18": -3641215839746820525
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_19": -8082691923554820126
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_2": 6812577393829415643
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_20": 5214863358481304853
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_21": 5460040733667271702
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_22": 8958829308990305122
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_23": -4470582951974998236
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_3": 5654008305349781476
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_4": -2610429898404754368
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_5": 2243182400041586481
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_6": -5060987554820916523
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_7": 2295111477363379212
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_8": 7834980966060860521
+      "Sprite Sheet Cyberpunk de Runner Ne\xF3n_9": 5928502537864661332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
