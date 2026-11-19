@@ -1,22 +1,16 @@
 fileFormatVersion: 2
-guid: cf0edfe8edf769a40ae864ae5a38c10e
+guid: a8d6e9d2e0179cd448172f5fe7d4913f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6826144949970839653
-    second: Run_01_0
+      213: 130937146736531036
+    second: Run_06_0
   - first:
-      213: -2318604258237353049
-    second: Run_01_1
+      213: -1494938752074404950
+    second: Run_06_1
   - first:
-      213: 2976781054513432080
-    second: Run_01_2
-  - first:
-      213: 6423856984909384763
-    second: Run_01_3
-  - first:
-      213: -2566691647389587175
-    second: Run_01_4
+      213: 7680949323990113672
+    second: Run_06_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run_01_0
+      name: Run_06_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 76
         y: 0
-        width: 192
-        height: 260
+        width: 314
+        height: 421
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,42 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 568a6506aa65bbe50800000000000000
-      internalID: 6826144949970839653
+      spriteID: c56522724ae21d100800000000000000
+      internalID: 130937146736531036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_01_1
+      name: Run_06_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 234
-        width: 5
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a3fd0d26b9a2dfd0800000000000000
-      internalID: -2318604258237353049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run_01_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 203
+        x: 429
+        y: 207
         width: 6
-        height: 21
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 016c260f896af4920800000000000000
-      internalID: 2976781054513432080
+      spriteID: aaba3a12029e04be0800000000000000
+      internalID: -1494938752074404950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_01_3
+      name: Run_06_2
       rect:
         serializedVersion: 2
-        x: 158
-        y: 0
-        width: 17
-        height: 10
+        x: 387
+        y: 21
+        width: 48
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,30 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3c8f6984ef162950800000000000000
-      internalID: 6423856984909384763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run_01_4
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 0
-        width: 10
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 919a16dab87416cd0800000000000000
-      internalID: -2566691647389587175
+      spriteID: 88d153af6b6389a60800000000000000
+      internalID: 7680949323990113672
       vertices: []
       indices: 
       edges: []
@@ -235,11 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Run_01_0: 6826144949970839653
-      Run_01_1: -2318604258237353049
-      Run_01_2: 2976781054513432080
-      Run_01_3: 6423856984909384763
-      Run_01_4: -2566691647389587175
+      Run_06_0: 130937146736531036
+      Run_06_1: -1494938752074404950
+      Run_06_2: 7680949323990113672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
