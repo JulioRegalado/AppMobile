@@ -25,3 +25,9 @@ MonoBehaviour:
     volume: 1
     pitch: 1
     audioType: 1
+  - name: 'Musica '
+    clip: {fileID: 8300000, guid: 9436783a664371343a6dc5201ee5de79, type: 3}
+    loop: 1
+    volume: 1
+    pitch: 1
+    audioType: 0

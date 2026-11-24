@@ -1196,7 +1196,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2920651023256647519, guid: 8c76744d444509e4fa9b0ee8dc8612eb, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3621102601296647608, guid: 8c76744d444509e4fa9b0ee8dc8612eb, type: 3}
       propertyPath: _hideOnStart
@@ -1464,6 +1464,20 @@ PrefabInstance:
     - target: {fileID: 1175238958234787638, guid: ae10b180bdd7acf43beb96b54dbe20f8, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2027197579268732245, guid: ae10b180bdd7acf43beb96b54dbe20f8, type: 3}
+      propertyPath: m_text
+      value: 'Juego hecho por:
+
+
+        Guille Oropeza
+
+
+        Botones y UI Internet
+        y IA
+
+
+        Musica: NonCopyrightSounds'
       objectReference: {fileID: 0}
     - target: {fileID: 2664564465215618243, guid: ae10b180bdd7acf43beb96b54dbe20f8, type: 3}
       propertyPath: m_AnchorMax.x
