@@ -3,35 +3,87 @@ using UnityEngine;
 
 public class MoveSpawner : MonoBehaviour
 {
-    [Header("Movement Settings")]
+    [Header("Movement")]
     public float speed = 7f;
 
-    [Header("Spawn Settings")]
-    public float resetPositionX = -30f;
-    public float startPositionX = 30f;
+    [Header("Spawn Gap")]
+    public float minGap = 5f;
+    public float maxGap = 10f;
 
-    [Header("Object Settings")]
-    public float objectWidth = 5f;
+    private SpriteRenderer spriteRenderer;
+    private Camera mainCamera;
+    private Rigidbody2D body;
+    private float objectWidth;
+
+    void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        mainCamera = Camera.main;
+        body = GetComponent<Rigidbody2D>();
+
+        if (spriteRenderer != null)
+        {
+            objectWidth = spriteRenderer.bounds.size.x;
+        }
+    }
 
     void Update()
     {
-        // Mover continuamente hacia la izquierda
-        transform.Translate(
-            Vector3.left * speed * Time.deltaTime,
-            Space.World
-        );
-
-        // Calcular cuando el objeto sale completamente de pantalla
-        float objectRightEdge = transform.position.x + (objectWidth / 2f);
-
-        if (objectRightEdge < resetPositionX)
+        if (body == null)
         {
-            // Reaparecer fuera de la pantalla por la derecha
-            transform.position = new Vector3(
-                startPositionX,
+            MoveAndWrap(Time.deltaTime);
+        }
+    }
+
+    void FixedUpdate()
+    {
+        if (body != null)
+        {
+            MoveAndWrap(Time.fixedDeltaTime);
+        }
+    }
+
+    private void MoveAndWrap(float deltaTime)
+    {
+        Vector3 movement = Vector3.left * speed * deltaTime;
+        if (body != null)
+        {
+            body.MovePosition(body.position + (Vector2)movement);
+        }
+        else
+        {
+            transform.Translate(movement, Space.World);
+        }
+
+        if (mainCamera == null || spriteRenderer == null) return;
+
+        float cameraLeft = mainCamera.ViewportToWorldPoint(
+            new Vector3(0f, 0f, Mathf.Abs(mainCamera.transform.position.z - transform.position.z))
+        ).x;
+
+        float cameraRight = mainCamera.ViewportToWorldPoint(
+            new Vector3(1f, 0f, Mathf.Abs(mainCamera.transform.position.z - transform.position.z))
+        ).x;
+
+        float objectRight = spriteRenderer.bounds.max.x;
+
+        if (objectRight < cameraLeft)
+        {
+            float gap = Random.Range(minGap, maxGap);
+
+            Vector3 spawnPosition = new Vector3(
+                cameraRight + objectWidth / 2f + gap,
                 transform.position.y,
                 transform.position.z
             );
+            if (body != null)
+            {
+                body.position = spawnPosition;
+            }
+            else
+            {
+                transform.position = spawnPosition;
+            }
         }
     }
 }

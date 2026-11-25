@@ -12,6 +12,7 @@ public class SettingsUI : UIWindow
     public override void Initialize()
     {
         base.Initialize();
+        _volumeMusicSlider.value = AudioManager.Instance.GetMusicVolume();
         _volumeMusicSlider.onValueChanged.AddListener(OnVolumeMusicChange);
         _volumeSFXSlider.onValueChanged.AddListener(OnVolumeMusicChange);
     }

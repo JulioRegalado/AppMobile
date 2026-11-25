@@ -1196,7 +1196,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2920651023256647519, guid: 8c76744d444509e4fa9b0ee8dc8612eb, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3621102601296647608, guid: 8c76744d444509e4fa9b0ee8dc8612eb, type: 3}
       propertyPath: _hideOnStart
@@ -1367,6 +1367,10 @@ PrefabInstance:
     - target: {fileID: 6521847321881810196, guid: ed759cd9e383fd145a72a03ba5b81786, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4294901848
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973450204788816707, guid: ed759cd9e383fd145a72a03ba5b81786, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

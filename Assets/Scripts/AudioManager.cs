@@ -41,6 +41,8 @@ namespace Dino.Utility.Audio
 
         private List<AudioData> _sfxAudioData = new List<AudioData>();
         private List<AudioData> _musicAudioData = new List<AudioData>();
+        private bool _musicPaused;
+        private const string MusicVolumePreferenceKey = "MusicVolume";
 
         #endregion
 
@@ -72,8 +74,21 @@ namespace Dino.Utility.Audio
 
         private void Update()
         {
-           
-            
+            bool shouldPauseMusic = Time.timeScale <= 0f;
+            if (shouldPauseMusic == _musicPaused)
+            {
+                return;
+            }
+
+            _musicPaused = shouldPauseMusic;
+            foreach (AudioData music in _musicAudioData)
+            {
+                AudioSource audioSource = FindAudioSource(music.clip);
+                if (audioSource == null) continue;
+
+                if (_musicPaused) audioSource.Pause();
+                else audioSource.UnPause();
+            }
         }
 
         
@@ -94,6 +109,16 @@ namespace Dino.Utility.Audio
             _audioSources = new List<AudioSource>();
             _soundsContainer.transform.SetParent(transform);
             PrepareLists();
+
+            if (PlayerPrefs.HasKey(MusicVolumePreferenceKey))
+            {
+                UpdateAudioMixerGroupVolume(PlayerPrefs.GetFloat(MusicVolumePreferenceKey), AudioType.Music);
+            }
+
+            if (_musicAudioData.Count > 0)
+            {
+                PlaySound(_musicAudioData[0].name);
+            }
         }
 
         
@@ -109,6 +134,7 @@ namespace Dino.Utility.Audio
             switch (audioType)
             {
                 case AudioType.Music:
+                    audioSource.outputAudioMixerGroup = _audioManagerData.MusicAudioMixerGroup;
                     break;
                 case AudioType.SFX:
                     audioSource.outputAudioMixerGroup = _audioManagerData.SfxAudioMixerGroup;
@@ -143,9 +169,9 @@ namespace Dino.Utility.Audio
                 audioSource.loop = audioData.loop;
                 audioSource.volume = audioData.volume;
                 audioSource.pitch = audioData.pitch;
-                audioSource.Play();
                 SetAudioInMixerGroup(audioSource, audioData.audioType);
                 _audioSources.Add(audioSource);
+                audioSource.Play();
             }
             else
             {
@@ -177,6 +203,7 @@ namespace Dino.Utility.Audio
             {
                 case AudioType.Music:
                     _audioManagerData.MusicAudioMixerGroup.audioMixer.SetFloat(_audioManagerData.MusicVolumeParameterName, Mathf.Lerp(-80f, 20f, volume));
+                    PlayerPrefs.SetFloat(MusicVolumePreferenceKey, volume);
                     break;
                 case AudioType.SFX:
                     _audioManagerData.SfxAudioMixerGroup.audioMixer.SetFloat(_audioManagerData.SfxVolumeParameterName, Mathf.Lerp(-80f, 20f, volume));
@@ -186,6 +213,22 @@ namespace Dino.Utility.Audio
                     break;
                 
             }
+        }
+
+        public float GetMusicVolume()
+        {
+            if (PlayerPrefs.HasKey(MusicVolumePreferenceKey))
+            {
+                return PlayerPrefs.GetFloat(MusicVolumePreferenceKey);
+            }
+
+            if (_audioManagerData.MusicAudioMixerGroup.audioMixer.GetFloat(
+                    _audioManagerData.MusicVolumeParameterName, out float volumeDb))
+            {
+                return Mathf.InverseLerp(-80f, 20f, volumeDb);
+            }
+
+            return 1f;
         }
 
         #endregion
@@ -208,4 +251,8 @@ namespace Dino.Utility.Audio
         SFX,
         Ambience
     }
+
+
+  
+
 }
